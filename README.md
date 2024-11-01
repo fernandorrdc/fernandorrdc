@@ -16,7 +16,7 @@ Habilidades
 - Front-end:
 - JavaScript (ES6+)
 - CSS3
-- React
+- React.
 - Back-end:
 - PHP
 - NodeJs
