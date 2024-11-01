@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**fernandorrdc/fernandorrdc** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ✨Fernando Ricardo ✨
 
 Desenvolvedor Front-end e Back-end
