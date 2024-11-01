@@ -6,7 +6,7 @@ Desenvolvedor Front-end e Back-end
 
 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento web e mobile. Busco constantemente melhorar minhas habilidades e aprender novas tecnologias.
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento web e iniciando mobile. Busco constantemente melhorar minhas habilidades e aprender novas tecnologias.
 
 Habilidades
 
