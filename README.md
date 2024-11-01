@@ -55,17 +55,12 @@ Linguagens e Ferramentas
 - MongoDB
 - Android Studio
 
-Certificações
-
-- [Certificação 1]
-- [Certificação 2]
-
 Educação
 
 - Analise de Desenvolvimento sistema ,4º SEMESTRE
 - UNIFOR
 -ENGENHARIA DE PRODUÇÃO, 9º sEMESTRE 
-- unifanor
+- UNIFANOR
 
 Experiência
 
