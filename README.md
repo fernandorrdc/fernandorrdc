@@ -2,7 +2,7 @@
 
 ✨Fernando Ricardo ✨
 
-Desenvolvedor Front-end e Back-end
+Desenvolvedor Front-end e Back-end (full stack).
 
 Sobre Mim
 
@@ -11,20 +11,22 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 Habilidades
 
 - Front-end:
-- JavaScript (ES6+)
-- CSS3
-- React.
+	-- React. 	
+	- JavaScript (ES6+)
+	- CSS3
+
 - Back-end:
-- PHP
-- NodeJs
-- MySQL
-- MongoDB
+	- PHP
+	- NodeJs
+ - Banco de Dados
+	- MySQL
+	- MongoDB
 - Desenvolvimento Móvel:
-- Java (Android Studio)
-- iOS (Swift)
+  	- Java (Android Studio)
+	- firebird
 - Outras habilidades:
-- Desenvolvimento orientado a objeto
-- Banco de dados relacional e NoSQL
+	- Desenvolvimento orientado a objeto (java)
+  
 
 Projetos
 
