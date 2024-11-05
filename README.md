@@ -30,8 +30,8 @@ Habilidades
 
 Projetos
 
-- ADOTESEUPAT
-- cLINICAmAISsAUDE
+- Adoteseupat
+- ClinicaMaisSaude
 - 
 
 Contato
