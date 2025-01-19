@@ -11,7 +11,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 Habilidades
 
 - Front-end:
-	-- React. 	
+	-- React.
+        -- HTML	
 	- JavaScript (ES6+)
 	- CSS3
 
