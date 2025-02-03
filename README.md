@@ -60,9 +60,9 @@ Linguagens e Ferramentas
 
 Educação
 
-- Analise de Desenvolvimento sistema ,4º SEMESTRE
+- Analise de Desenvolvimento sistema ,Último SEMESTRE
 - UNIFOR
--ENGENHARIA DE PRODUÇÃO, 9º sEMESTRE 
+-ENGENHARIA DE PRODUÇÃO, 9º SEMESTRE 
 - UNIFANOR
 
 Experiência
