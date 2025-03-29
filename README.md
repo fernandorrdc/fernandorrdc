@@ -55,7 +55,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 <H2>Contato </H2>
 <div>
 	<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-		<br>https://www.linkedin.com/in/fernandorrdc<br>
+		<br>https://www.linkedin.com/in/fernandorrdc
 </div>
 <div>
 	<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
