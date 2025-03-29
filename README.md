@@ -87,7 +87,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 
   UNIFOR
 - Analise de Desenvolvimento sistema (Último SEMESTRE) <br>
-  UNIFANOR<br>
+
+UNIFANOR
 - ENGENHARIA DE PRODUÇÃO, 9º SEMESTRE 
  
 
