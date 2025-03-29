@@ -85,10 +85,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 
 <H2>Educação</H2>
 
-  UNIFOR<br>
-- Analise de Desenvolvimento sistema ,Último SEMESTRE <br>
+  UNIFOR
+- Analise de Desenvolvimento sistema (Último SEMESTRE) <br>
   UNIFANOR<br>
--ENGENHARIA DE PRODUÇÃO, 9º SEMESTRE 
+- ENGENHARIA DE PRODUÇÃO, 9º SEMESTRE 
  
 
 <H2>Experiência Profissional</H2>
