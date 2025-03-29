@@ -1,7 +1,7 @@
 
 <H1>✨Fernando Ricardo ✨</H1>
 <div>
-	<img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandorrdc&theme=radical><br>
+	<img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandorrdc&theme=radical>
  	<img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandorrdc&theme=radical>
 	
 </div>	
