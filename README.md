@@ -54,9 +54,12 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 
 <H2>Contato </H2>
 <div>
-	<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white><br>https://www.linkedin.com/in/fernandorrdc<br>
-	<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ><br> @fernandorrdc <br>
-	<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white ><br>fernandorrdc@hotmail.com
+	<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+	<br>https://www.linkedin.com/in/fernandorrdc<br>
+	<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white >
+	<br> @fernandorrdc <br>
+	<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white >
+	<br>fernandorrdc@hotmail.com
 </div>
 
 <H2>Estou Interessado Em </H2>
